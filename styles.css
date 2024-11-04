@@ -76,6 +76,7 @@
     margin-left: 25px;
 }
 .icon-con p{
+    color: #4B2E83;
     padding-top: 5px;
 }
 .icon-con h2{
@@ -101,7 +102,6 @@
 .title p{
     font-family: 'Playwrite GB S', sans-serif;
     font-size: 14px;
-
 }
 
 .menu{
